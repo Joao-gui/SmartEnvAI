@@ -1,0 +1,6 @@
+esp32_smartenv/.pio
+esp32_smartenv/.vscode/.browse.c_cpp.db*
+esp32_smartenv/.vscode/c_cpp_properties.json
+esp32_smartenv/.vscode/launch.json
+esp32_smartenv/.vscode/ipch
+Documents/*
