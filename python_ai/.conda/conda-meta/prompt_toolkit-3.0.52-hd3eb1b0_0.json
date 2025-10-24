@@ -1,0 +1,33 @@
+{
+  "name": "prompt_toolkit",
+  "version": "3.0.52",
+  "build": "hd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "subdir": "noarch",
+  "fn": "prompt_toolkit-3.0.52-hd3eb1b0_0.conda",
+  "md5": "fdef529bf1042c27aa68e8aee5f69167",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/prompt_toolkit-3.0.52-hd3eb1b0_0.conda",
+  "sha256": "63052192e3b2f134abf91490ef4ab1929773d4f1b9e463ad76cabd8f28e54c88",
+  "depends": [
+    "prompt-toolkit >=3.0.52,<3.0.53.0a0"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "BSD-3-Clause",
+  "package_type": "noarch_generic",
+  "timestamp": 1760375731000,
+  "size": 5493,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/home/joao/miniconda3/pkgs/prompt_toolkit-3.0.52-hd3eb1b0_0.conda",
+  "extracted_package_dir": "/home/joao/miniconda3/pkgs/prompt_toolkit-3.0.52-hd3eb1b0_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/home/joao/miniconda3/pkgs/prompt_toolkit-3.0.52-hd3eb1b0_0",
+    "type": 1
+  }
+}
