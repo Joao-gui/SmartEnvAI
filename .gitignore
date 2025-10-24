@@ -1,9 +1,5 @@
-esp32_smartenv/.pio
-esp32_smartenv/.vscode/.browse.c_cpp.db*
-esp32_smartenv/.vscode/c_cpp_properties.json
-esp32_smartenv/.vscode/launch.json
-esp32_smartenv/.vscode/ipch
 Documents/SmartEnvAI.pdf
 Documents/SmartEnvAI.odt
 Documents/Projeto-Sensor-de-Corrente-ACS712-com-Arduino.jpg
 Documents/Configuração de Medição de Corrente.png
+SmartEnvAI.code-workspace
